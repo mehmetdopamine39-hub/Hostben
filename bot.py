@@ -46,14 +46,14 @@ def get_uptime():
     minutes, seconds = divmod(remainder, 60)
     return f"{days}d {hours}h {minutes}m {seconds}s"
 
-TOKEN = '8726105235:AAHSE_IZqIwW8MO7Ud7B3qDk66eh9rdJ-7E'
+TOKEN = '8976321623:AAHahCZpsn6EHElI_xKKeN6TMbs1TI2acsU'
 OWNER_ID =8610336203
 ADMIN_ID =8610336203
 YOUR_USERNAME = '@rinexdestek'
 UPDATE_CHANNEL = 'https://t.me/rinexsorgux'
 
 A4F_API_URL = "https://samuraiapi.in/v1/chat/completions"
-A4F_API_KEY = "sk-NK6SS9tpWghyFJwkZLoCis1sMaF6RwQ5WF09mUoKKR0VKCm7"
+A4F_API_KEY = "sk-NK6SS9tpWghyFJwkZLoCis1sMaF6"
 A4F_MODEL = "provider10-claude-sonnet-4-20250514(clinesp)"
 
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
